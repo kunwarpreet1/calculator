@@ -1,0 +1,47 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.input{
+    padding: 5px;
+    margin-top: 30px;
+    font-size: 27px;
+    width:202px;
+    border-radius: 10px;
+}
+.welcome{
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: 270px;
+   
+}
+.button{
+  
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    padding: 10px;
+    margin-right:10px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 3px brown,-3px 3px 3px brown;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.row1{
+    margin-left: 680px;
+    
+}
+.row{
+    margin-left: 680px;
+}
+.row2{
+    margin-left: 680px;
+}
+.row3{
+    margin-left: 680px;
+}
